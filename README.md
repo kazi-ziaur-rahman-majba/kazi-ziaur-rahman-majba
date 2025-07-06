@@ -1,42 +1,21 @@
 <!-- ✨ Intro Section -->
 <h1 align="center">✨ Crafting Beautiful Interfaces with Precision and Passion</h1>
 <h4 align="center">🚀 I'm Kazi Ziaur Rahman Majba — a dedicated React.js Developer</h4>
-<h5 align="center">🤝 Always open to exciting collaborations. Let’s build something impactful together!</h5>
 
 <!-- 👁️‍🗨️ Profile Views -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=majbaulhoque&label=👁️‍🗨️+Profile+Views&color=blueviolet&style=flat-square" alt="Profile Views" />
 </p>
 
----
-
-<!-- 🧠 GitHub Stats & Contributions -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=majbaulhoque&show_icons=true&theme=radical" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=majbaulhoque&layout=compact&theme=radical" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=majbaulhoque&theme=radical&hide_border=true" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=majbaulhoque&theme=radical" />
-</p>
-
----
-
-<!-- 🚀 Tech Stack -->
+<!-- 🚀 Tech Stack Section -->
 <details>
 <summary>🚀 Programming Languages & Tools</summary>
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,firebase,tailwind,docker,git,github,vscode,figma&theme=light" height="100" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,firebase,tailwind,docker,git,github,vscode,figma&theme=light" height="100" /></a>
 </p>
 </details>
 
----
-
-<!-- 📊 Environment and Domain Table (unchanged) -->
+<!-- 🧠 Domain & Environment Info Table (unchanged structure) -->
 <table>
 <tr><th align="left">Property</th><th>Data</th></tr>
 <tr>
