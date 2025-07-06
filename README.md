@@ -8,15 +8,35 @@
   <img src="https://komarev.com/ghpvc/?username=majbaulhoque&label=👁️‍🗨️+Profile+Views&color=blueviolet&style=flat-square" alt="Profile Views" />
 </p>
 
-<!-- 🚀 Tech Stack Section -->
+---
+
+<!-- 🧠 GitHub Stats & Contributions -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=majbaulhoque&show_icons=true&theme=radical" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=majbaulhoque&layout=compact&theme=radical" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=majbaulhoque&theme=radical&hide_border=true" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=majbaulhoque&theme=radical" />
+</p>
+
+---
+
+<!-- 🚀 Tech Stack -->
 <details>
 <summary>🚀 Programming Languages & Tools</summary>
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,firebase,tailwind,docker,git,github,vscode,figma&theme=light" height="100" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,firebase,tailwind,docker,git,github,vscode,figma&theme=light" height="100" /></a>
 </p>
 </details>
 
-<!-- 🧠 Domain & Environment Info Table (unchanged structure) -->
+---
+
+<!-- 📊 Environment and Domain Table (unchanged) -->
 <table>
 <tr><th align="left">Property</th><th>Data</th></tr>
 <tr>
