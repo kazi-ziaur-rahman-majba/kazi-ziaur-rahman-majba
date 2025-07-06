@@ -1,7 +1,3 @@
-<!-- ✨ Intro Section -->
-<h1 align="center">✨ Crafting Beautiful Interfaces with Precision and Passion</h1>
-<h4 align="center">🚀 I'm Kazi Ziaur Rahman Majba — a dedicated React.js Developer</h4>
-
 <!-- 👁️‍🗨️ Profile Views -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=majbaulhoque&label=👁️‍🗨️+Profile+Views&color=blueviolet&style=flat-square" alt="Profile Views" />
