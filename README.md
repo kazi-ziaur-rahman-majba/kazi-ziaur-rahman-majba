@@ -18,9 +18,8 @@
 </p>
 </details>
 
-<!-- 🧠 Domain & Environment Info Table -->
-<details>
-<summary>🧠 My Tools & Environment Info</summary>
+<!-- 🧠 My Tools & Environment Info (Always Visible) -->
+<h3>🧠 My Tools & Environment Info</h3>
 
 <table>
 <tr><th align="left">Property</th><th>Data</th></tr>
@@ -83,10 +82,3 @@
   </td>
 </tr>
 </table>
-</details>
-
-<!-- 📊 GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=majbaulhoque&show_icons=true&theme=default" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=majbaulhoque&layout=compact&theme=default" height="180" alt="Top Languages" />
-</p>
