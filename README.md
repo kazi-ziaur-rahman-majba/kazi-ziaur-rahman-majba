@@ -12,7 +12,6 @@
 
 <!-- 🚀 Tech Stack Section -->
 <details>
-<summary>🚀 Programming Languages & Tools</summary>
 <p align="center">
   <a href="#"><img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,firebase,tailwind,docker,git,github,vscode,figma&theme=light" height="100" alt="Tech Stack Icons" /></a>
 </p>
