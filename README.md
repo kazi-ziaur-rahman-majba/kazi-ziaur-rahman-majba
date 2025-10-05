@@ -10,18 +10,21 @@
   </a>
 </p>
 
-
 <table>
 <tr><th align="left">Property</th><th>Data</th></tr>
 
 <tr>
   <td><strong>Language</strong></td>
-  <td><img alt="JavaScript Badge" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" /></td>
+  <td>
+    <img alt="JavaScript Badge" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  </td>
 </tr>
 
 <tr>
   <td><strong>Domain Knowledge</strong></td>
-  <td><img alt="Web Dev" src="https://img.shields.io/badge/-Web%20Development-blue?style=flat&logo=html5&logoColor=white" /></td>
+  <td>
+    <img alt="Web Dev" src="https://img.shields.io/badge/-Web%20Development-blue?style=flat&logo=html5&logoColor=white" />
+  </td>
 </tr>
 
 <tr>
@@ -36,27 +39,34 @@
 <tr>
   <td><strong>CLIs</strong></td>
   <td>
-    <a href="#"><img alt="Bash" src="https://img.shields.io/badge/-Bash-black?logo=gnu-bash" /></a>
-    <a href="#"><img alt="PowerShell" src="https://img.shields.io/badge/-PowerShell-blue?logo=powershell" /></a>
+    <img alt="Bash" src="https://img.shields.io/badge/-Bash-black?logo=gnu-bash" />
+    <img alt="PowerShell" src="https://img.shields.io/badge/-PowerShell-blue?logo=powershell" />
   </td>
 </tr>
 
 <tr>
-  <td><strong>Operating System</strong></td>
+  <td><strong>Operating Systems</strong></td>
   <td>
-    <a href="#"><img alt="Windows" src="https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white" /></a>
-    <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white" /></a>
+    <img alt="Windows" src="https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white" />
+    <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white" />
   </td>
 </tr>
 
 <tr>
-  <td><strong>Frameworks & Tools</strong></td>
+  <td><strong>Libraries & Frameworks</strong></td>
   <td>
     <img alt="React" src="https://img.shields.io/badge/-React-blue?style=flat&logo=react&logoColor=white" />
+    <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js&logoColor=white" />
     <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+    <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
+  </td>
+</tr>
+
+<tr>
+  <td><strong>Tools & Platforms</strong></td>
+  <td>
     <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-yellow?logo=firebase" />
     <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-green?logo=mongodb" />
-    <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
     <img alt="Docker" src="https://img.shields.io/badge/-Docker-blue?logo=docker" />
   </td>
 </tr>
